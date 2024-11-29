@@ -1,2 +1,2 @@
 # sorteionumero
-Projeto Sortear Número Aleatório
+Projeto Sortear Número Aleatório todo responsivo para tamanhos de telas grandes e pequenas.
